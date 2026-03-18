@@ -12,9 +12,9 @@ export default function Page() {
       <Navbar />
       <main id="home" className="mx-auto flex max-w-6xl flex-col gap-24 px-6 pb-20 pt-16 md:pt-24">
         <HeroSection />
-        <ProjectsSection />
-        <SkillsSection />
         <ExperienceSection />
+        <SkillsSection />
+        <ProjectsSection />
         <CodeforcesSection />
         <ContactSection />
       </main>

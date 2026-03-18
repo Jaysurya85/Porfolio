@@ -24,6 +24,7 @@ export const siteData = {
 		headline: "I build scalable backend systems, distributed applications, and polished frontend experiences.",
 		summary:
 			"M.S. Computer Science student at the University of Florida with a 4.0 GPA and prior backend engineering experience at Infosys. I enjoy building distributed systems, performant services, and clean user-facing products that pair strong backend design with thoughtful frontend execution.",
+		resume: "/resume.pdf",
 		email: "jaysuryaray1998@gmail.com",
 		github: "https://github.com/Jaysurya85",
 		linkedin: "https://www.linkedin.com/in/Jaysurya85/",
