@@ -34,8 +34,8 @@ export const siteData = {
 		handle: "jaysuryaray1998",
 		profile: "https://codeforces.com/profile/jaysuryaray1998",
 		summary:
-			"Solved 700+ algorithmic problems on Codeforces and reached Specialist level with a 1400+ rating.",
-		highlights: ["700+ problems solved", "Specialist", "1400+ rating", "Java • Rust • Python"],
+			"Solved 800+ algorithmic problems on Codeforces and reached Expert level with a 1600+ rating.",
+		highlights: ["800+ problems solved", "Expert", "1600+ rating", "Java • Rust • Python"],
 	},
 	projects: [
 		{
